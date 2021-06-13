@@ -2,5 +2,5 @@
        PROGRAM-ID. COBOL.
        
        PROCEDURE DIVISION.
-           DISPLAY "Hello World!".
+           DISPLAY "Hello World".
            STOP RUN.
