@@ -1,1 +1,1 @@
-Just my **HelloWorld** collection in different lang xd
+Just my **HelloWorld** collection in different programming language xd
