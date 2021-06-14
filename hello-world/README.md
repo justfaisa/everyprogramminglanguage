@@ -151,6 +151,8 @@ Just my **HelloWorld** collection in different programming language xd
 
 - [x] **OCaml**
 
+`FORMAT: .ml`
+
 - [x] **Pascal**
 
 `FORMAT: .pas`
