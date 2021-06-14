@@ -44,6 +44,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **C++**
 
 `FORMAT: .cpp`
+- **C++** is a computer programming language created by **Bjarne Stroustrup**, which is an outgrowth of the C language developed at Bell Labs. In the early **1970s**, the language was an improvement over the previous language, namely **B**.
 
 - [x] **CSS**
 
