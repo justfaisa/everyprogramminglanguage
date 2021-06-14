@@ -2,3 +2,37 @@ Just my **HelloWorld** collection in different programming language xd
 
 # List
 - [x] **ABAP**
+- [x] **Assembly**
+- [x] **Autoit**
+- [x] **BASIC**
+- [x] **Batch**
+- [x] **Brainfuck**
+- [x] **C**
+- [x] **C#**
+- [x] **C++**
+- [x] **CSS**
+- [x] **COBOL**
+- [x] **COOL**
+- [x] **CoffeeScript**
+- [x] **ClojureScript**
+- [x] **Crystal**
+- [x] **D**
+- [x] **Dart**
+- [x] **Delphi**
+- [x] **Elixir**
+- [x] **Emojic**
+- [x] **Erlang**
+- [x] **Fortran**
+- [x] **Go**
+- [x] **Groovy**
+- [x] **Haskell**
+- [x] **HTML**
+- [x] **INTERCAL**
+- [x] **Java**
+- [x] **JavaScript**
+- [x] **Julia**
+- [x] **Juliar**
+- [x] **Kotlin**
+- [x] **Lisp**
+- [x] **Lua**
+- [x] **Matlab**
