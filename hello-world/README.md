@@ -254,6 +254,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Shell**
 
 `FORMAT: .sh`
+- **Shell** is a computer program designed to be run by the **Unix shell**, a command-line interpreter. The various dialects of **Shell** are considered to be scripting languages. Typical operations performed by **Shell** include file manipulation, program execution, and printing text.
 
 - [x] **Solidity**
 
