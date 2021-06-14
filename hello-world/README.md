@@ -259,6 +259,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Solidity**
 
 `FORMAT: .sol`
+- **Solidity** is a contract oriented programming language for writing smart contracts. This programming language is used to create smart contracts on various blockchain platforms.
 
 - [x] **SQL**
 
