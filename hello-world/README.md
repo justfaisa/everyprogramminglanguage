@@ -89,6 +89,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Delphi**
 
 `FORMAT: .delphi`
+- **Delphi** is a software product that uses the **Delphi** dialect of the **Object Pascal** programming language and provides an integrated development environment (IDE) for rapid application development of desktop, mobile, web, and console software, currently developed and maintained by **Embarcadero Technologies**.
 
 - [x] **Elixir**
 
