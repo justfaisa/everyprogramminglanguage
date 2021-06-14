@@ -23,3 +23,4 @@ bored.
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.delphi">helloworld.delphi</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.emojic">helloworld.emojic</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.erl">helloworld.erl</a>
+    - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.exs">helloworld.exs</a>
