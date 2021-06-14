@@ -40,3 +40,9 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Objective-C**
 - [x] **OCaml**
 - [x] **Pascal**
+- [x] **Perl**
+- [x] **Perl 6**
+- [x] **PHP**
+- [x] **PostScript**
+- [x] **PowerShell**
+
