@@ -184,6 +184,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Objective-C**
 
 `FORMAT: .m`
+- **Objective-C** is an object-oriented and reactive programming language. This language is used on Mac OS X as well as iPhone smartphones. **Objective-C** is an object-oriented programming language or what we know as **OOP (Object Oriented Programming)**.
 
 - [x] **OCaml**
 
