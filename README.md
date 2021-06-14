@@ -40,3 +40,4 @@ bored.
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.m">helloworld.m</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.mat">helloworld.mat</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.ml">helloworld.ml</a>
+    - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.nim">helloworld.nim</a>
