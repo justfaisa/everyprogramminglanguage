@@ -49,6 +49,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **CSS**
 
 `FORMAT: .css`
+- **Cascading Style Sheets (CSS)** are rules for arranging several components in a web so that it will be more structured and uniform. **CSS is not a programming language**.
 
 - [x] **COBOL**
 
