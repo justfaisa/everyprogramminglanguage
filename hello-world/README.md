@@ -279,6 +279,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **TCL**
 
 `FORMAT: .tcl`
+- **Tool Command Language (TCL)** is widely used command language in today's programming world to predict the behaviour of a network; for that purpose, we use a network simulator which uses code written in any scripting language. **TCL** is one of such scripting languages.
 
 - [x] **TypeScript**
 
