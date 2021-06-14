@@ -179,6 +179,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Nim**
 
 `FORMAT: .nim`
+- **Nim** is a mandatory, general-purpose, multi-paradigm, statically typed, compiled programming language designed and developed by **Andreas Rumpf**.
 
 - [x] **Objective-C**
 
