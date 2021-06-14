@@ -36,3 +36,5 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Lisp**
 - [x] **Lua**
 - [x] **Matlab**
+- [x] **Nim**
+- [x] **OCaml**
