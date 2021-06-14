@@ -244,6 +244,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Rust**
 
 `FORMAT .rs`
+- **Rust** is a systems programming language whose development is supported by research from **Mozilla**. The language is designed to be "Safe, Concurrent and Practical" programming. This language supports functional and procedural-imperative programming paradigms.
 
 - [x] **Scala**
 
