@@ -6,3 +6,4 @@ bored.
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.asm">helloworld.asm</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.au3">helloworld.au3</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.bas">helloworld.bas</a>
+    - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.bash">helloworld.bash</a>
