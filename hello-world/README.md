@@ -224,6 +224,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Prolog**
 
 `FORMAT: .pro`
+- **Prolog** adalah bahasa pemrograman logika atau di sebut juga sebagai bahasa non-procedural. Namanya diambil dari bahasa Prancis programmation en logique.
 
 - [x] **Python**
 
