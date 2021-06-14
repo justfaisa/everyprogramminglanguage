@@ -34,3 +34,4 @@ bored.
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.jl">helloworld.jl</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.jrl">helloworld.jrl</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.js">helloworld.js</a>
+    - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.kt">helloworld.kt</a>
