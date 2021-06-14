@@ -25,3 +25,4 @@ bored.
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.erl">helloworld.erl</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.exs">helloworld.exs</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.f">helloworld.f</a>
+    - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.go">helloworld.go</a>
