@@ -164,6 +164,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Lisp**
 
 `FORMAT: .lisp`
+- **Lisp** is the second oldest high-level programming language in widespread use today. Like **Fortran**, **Lisp** has changed a lot since its inception, and a number of dialects have existed throughout its history. Currently, the most widely recognized dialects are **Scheme**, **Common LISP**, and **Clojure**.
 
 - [x] **Lua**
 
