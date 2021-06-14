@@ -219,6 +219,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **PowerShell**
 
 `FORMAT: .ps`
+- **Windows PowerShell**, formerly **Microsoft Shell** or **MSH** is a command line interface or **CLI** and scripting language being developed by **Microsoft**. This interface is similar to the **UNIX** shell, but the product is built on the basis of object-oriented programming and the **Microsoft** framework.
 
 - [x] **Prolog**
 
