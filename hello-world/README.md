@@ -194,6 +194,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Pascal**
 
 `FORMAT: .pas`
+- **Pascal** is a programming language that was first created by **Professor Niklaus Wirth**, a member of the International Federation of Information Processing in **1971**.
 
 - [x] **Perl**
 
