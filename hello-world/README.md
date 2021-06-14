@@ -214,6 +214,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **PostScript**
 
 `FORMAT: .ps1`
+- **PostScript** is a computer language for creating vector images. This language is dynamic, concatenative type and was created by **John Warnock**, **Charles Geschke**, **Doug Brotz**, **Ed Taft** and **Bill Paxton** in **1982**.
 
 - [x] **PowerShell**
 
