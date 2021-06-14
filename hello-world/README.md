@@ -53,6 +53,9 @@ Just my **HelloWorld** collection in different programming language xd
 
 `FORMAT: .c`
 - **C** is a computer programming language. Created in **1972** by **Dennis Ritchie** for the Unix Operating System at Bell Telephone Laboratories. Although **C** was created to program computer systems and networks, this language is also often used in developing application software.
+- **Founder:** `Dennis Ritchie`
+- **Company:** `Bell Labs`
+- **Year:** `1972`
 
 - [x] **C#**
 
