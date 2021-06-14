@@ -14,6 +14,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Autoit**
 
 `FORMAT: .au3`
+- **Autoit** is an application that allows you to program your computer to automatically perform tasks that you have included in a specific script. The app can simulate mouse gestures and keyboard taps, click and select from menu options, or control program windows.
 
 - [x] **BASIC**
 
