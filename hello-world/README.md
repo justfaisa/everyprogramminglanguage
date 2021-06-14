@@ -144,6 +144,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **JavaScript**
 
 `FORMAT: .js`
+- **JavaScript** is a high-level and dynamic programming language. **JavaScript** is popular on the internet and works in most popular web browsers such as Google Chrome, Internet Explorer, Mozilla Firefox, Netscape and Opera. **JavaScript** code can be embedded in web pages using the SCRIPT tag.
 
 - [x] **Julia**
 
