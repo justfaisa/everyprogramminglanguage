@@ -249,6 +249,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Scala**
 
 `FORMAT: .scala`
+- **Scala** is a general programming language that supports object-oriented programming and functional programming. In general, the purpose of making **Scala** is a critique of the **Java** programming language.
 
 - [x] **Shell**
 
