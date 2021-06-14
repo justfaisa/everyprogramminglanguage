@@ -224,11 +224,12 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Prolog**
 
 `FORMAT: .pro`
-- **Prolog** adalah bahasa pemrograman logika atau di sebut juga sebagai bahasa non-procedural. Namanya diambil dari bahasa Prancis programmation en logique.
+- **Prolog** is a logic programming language or also known as a non-procedural language. Its name is taken from the French programmation en logique.
 
 - [x] **Python**
 
 `FORMAT: .py`
+- **Python** is an interpreted, high-level general purpose programming language. Created by **Guido van Rossum** and first released in **1991**, **Python**'s design philosophy emphasizes code readability with significant use of whitespace.
 
 - [x] **R**
 
