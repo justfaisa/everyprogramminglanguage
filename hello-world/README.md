@@ -129,6 +129,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **HTML**
 
 `FORMAT: .html`
+- **Hypertext Markup Language (HTML)** is the standard markup language for documents designed to be displayed in internet browsers. This can be helped by technologies such as **Cascading Style Sheets (CSS)** and scripting languages ​​such as **JavaScript** and **VBScript**.
 
 - [x] **INTERCAL**
 
