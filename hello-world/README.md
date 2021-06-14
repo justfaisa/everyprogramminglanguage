@@ -234,6 +234,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **R**
 
 `FORMAT: .r`
+- **R** is a programming language and software for statistical and graph analysis. **R** was created by **Ross Ihaka** and **Robert Gentleman** at the University of Auckland, New Zealand, and is now being developed by the **R Development Core Team**, of which Chambers is a member.
 
 - [x] **Ruby**
 
