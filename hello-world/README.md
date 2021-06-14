@@ -114,6 +114,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Go**
 
 `FORMAT: .go`
+- **Go** is a programming language created at **Google** in **2009** by **Robert Griesemer**, **Rob Pike**, and **Ken Thompson**. **Go** is an easy, simple, efficient open source programming language. Apart from that, **Go** is on the same level as **Java**.
 
 - [x] **Groovy**
 
