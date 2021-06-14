@@ -104,6 +104,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Erlang**
 
 `FORMAT: .erl`
+- **Erlang** is a general-purpose, concurrent, and functional programming language, and a garbage-collected runtime system.
 
 - [x] **Fortran**
 
