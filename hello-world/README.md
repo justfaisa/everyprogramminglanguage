@@ -2,61 +2,117 @@ Just my **HelloWorld** collection in different programming language xd
 
 # List
 - [x] **ABAP**
+
 - [x] **Assembly**
+
 - [x] **Autoit**
+
 - [x] **BASIC**
+
 - [x] **Batch**
+
 - [x] **Brainfuck**
+
 - [x] **C**
+
 - [x] **C#**
+
 - [x] **C++**
+
 - [x] **CSS**
+
 - [x] **COBOL**
+
 - [x] **COOL**
+
 - [x] **CoffeeScript**
+
 - [x] **ClojureScript**
+
 - [x] **Crystal**
+
 - [x] **D**
+
 - [x] **Dart**
+
 - [x] **Delphi**
+
 - [x] **Elixir**
+
 - [x] **Emojic**
+
 - [x] **Erlang**
+
 - [x] **Fortran**
+
 - [x] **Go**
+
 - [x] **Groovy**
+
 - [x] **Haskell**
+
 - [x] **HTML**
+
 - [x] **INTERCAL**
+
 - [x] **Java**
+
 - [x] **JavaScript**
+
 - [x] **Julia**
+
 - [x] **Juliar**
+
 - [x] **Kotlin**
+
 - [x] **Lisp**
+
 - [x] **Lua**
+
 - [x] **Matlab**
+
 - [x] **Nim**
+
 - [x] **Objective-C**
+
 - [x] **OCaml**
+
 - [x] **Pascal**
+
 - [x] **Perl**
+
 - [x] **Perl 6**
+
 - [x] **PHP**
+
 - [x] **PostScript**
+
 - [x] **PowerShell**
+
 - [x] **Prolog**
+
 - [x] **Python**
+
 - [x] **R**
+
 - [x] **Ruby**
+
 - [x] **Rust**
+
 - [x] **Scala**
+
 - [x] **Shell**
+
 - [x] **Solidity**
+
 - [x] **SQL**
+
 - [x] **Standard ML**
+
 - [x] **Swift**
+
 - [x] **TCL**
+
 - [x] **TypeScript**
+
 - [x] **Visual Basic .NET**
-- [x] **Whitespace**
