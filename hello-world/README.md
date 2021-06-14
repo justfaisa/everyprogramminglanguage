@@ -199,6 +199,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Perl**
 
 `FORMAT: .pl`
+- **Perl** is a programming language for all purposes, first developed by **Larry Wall** on Unix machines. **Perl** was first released on **December 18**, **1987** marked by the release of **Perl 1**.
 
 - [x] **Perl 6**
 
