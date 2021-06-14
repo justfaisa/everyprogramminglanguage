@@ -39,6 +39,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **C#**
 
 `FORMAT: .cs`
+- **C#** is an object-oriented programming language developed by Microsoft as part of the .NET Framework framework initiative.
 
 - [x] **C++**
 
