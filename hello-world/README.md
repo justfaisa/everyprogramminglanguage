@@ -154,6 +154,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Juliar**
 
 `FORMAT: .jrl`
+- **Juliar** same as Julia
 
 - [x] **Kotlin**
 
