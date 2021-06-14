@@ -124,6 +124,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Haskell**
 
 `FORMAT: .hs`
+- **Haskell** is a purely functional programming language. The name **Haskell** programming language is named after the mathematician **Haskell Curry**, who is best known for his work in combinatory logic. **Haskell** only recognizes expressions and equations.
 
 - [x] **HTML**
 
