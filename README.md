@@ -11,3 +11,4 @@ bored.
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.bf">helloworld.bf</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.c">helloworld.c</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.cbl">helloworld.cbl</a>
+    - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.cl">helloworld.cl</a>
