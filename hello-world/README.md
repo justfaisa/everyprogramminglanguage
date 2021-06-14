@@ -19,6 +19,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **BASIC**
 
 `FORMAT: .bas`
+- **BASIC**, which stands for Beginners' All-purpose Symbolic Instruction Code, is a group of high-level programming languages. Literally, BASIC means "An all-purpose symbolic instruction code that beginners can use"
 
 - [x] **Batch**
 
