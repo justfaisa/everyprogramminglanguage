@@ -274,6 +274,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Swift**
 
 `FORMAT: .swift`
+- **Swift** is a functional object programming language for **iOS** and **OS X** development created by **Apple**. Designed to coexist with **Objective-C** and avoid programs from erroneous code. **Swift** was introduced by **Apple** at the 2014 WWDC annual event.
 
 - [x] **TCL**
 
