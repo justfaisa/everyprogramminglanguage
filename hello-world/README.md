@@ -117,6 +117,9 @@ Just my **HelloWorld** collection in different programming language xd
 
 `FORMAT: .cr`
 - **Crystal** is a general-purpose, object-oriented programming language, designed and developed by **Ary Borenszweig**, **Juan Wajnerman**, **Brian Cardiff** and more than **300 contributors**.
+- **Founder:** `Ary Borenszweig, Juan Wajnerman, Brian Cardiff, and 300 people`
+- **Company:** `Manas Technology Solutions`
+- **Year:** `2014`
 
 - [x] **D**
 
