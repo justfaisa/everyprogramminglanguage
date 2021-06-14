@@ -54,6 +54,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **COBOL**
 
 `FORMAT: .cbl`
+- **COBOL** is a third generation programming language. As the name implies, the **COBOL** language has the function of solving problems related to trade, such as financial management systems, company expense reports and others.
 
 - [x] **COOL**
 
