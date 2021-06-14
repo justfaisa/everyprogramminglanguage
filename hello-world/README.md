@@ -284,6 +284,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **TypeScript**
 
 `FORMAT: .ts`
+- **TypeScript** is a programming language developed and maintained by **Microsoft**. It is a strict syntactical superset of **JavaScript** and adds optional static typing to the language. **TypeScript** is designed for the development of large applications and transcompiles to **JavaScript**.
 
 - [x] **Visual Basic .NET**
 
