@@ -44,7 +44,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **C++**
 
 `FORMAT: .cpp`
-- **C++** is a computer programming language created by **Bjarne Stroustrup**, which is an outgrowth of the C language developed at Bell Labs. In the early **1970s**, the language was an improvement over the previous language, namely **B**.
+- **C++** is a computer programming language created by **Bjarne Stroustrup**, which is an outgrowth of the **C** language developed at Bell Labs. In the early **1970s**, the language was an improvement over the previous language, namely **B**.
 
 - [x] **CSS**
 
@@ -59,11 +59,12 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **COOL**
 
 `FORMAT: .cl`
-- **COOL**, an acronym for **Classroom Object Oriented Language**, is a computer programming language designed by **Alexander Aiken** for use in an undergraduate compiler course project. ... The reference **COOL** compiler is written in C++, built fully on the public domain tools. It generates code for a MIPS simulator, SPIM.
+- **COOL**, an acronym for **Classroom Object Oriented Language**, is a computer programming language designed by **Alexander Aiken** for use in an undergraduate compiler course project. ... The reference **COOL** compiler is written in **C++**, built fully on the public domain tools. It generates code for a MIPS simulator, SPIM.
 
 - [x] **CoffeeScript**
 
 `FORMAT: .coffee`
+- **CoffeeScript** is a programming language that compiles to **JavaScript**. It adds syntactic sugar inspired by **Ruby**, **Python** and **Haskell** in an attempt to improve **JavaScript** brevity and readability. Specific additional features include list comprehension and styling assignments.
 
 - [x] **ClojureScript**
 
