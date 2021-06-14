@@ -45,6 +45,9 @@ Just my **HelloWorld** collection in different programming language xd
 
 `FORMAT: .bf`
 - **Brainfuck** is an esoteric programming language created in **1993** by **Urban Müller**, and best known for its extreme minimalism. This language consists of only eight simple commands and an instruction pointer.
+- **Founder:** `Urban Müller`
+- **Company:** `-`
+- **Year:** `1993`
 
 - [x] **C**
 
