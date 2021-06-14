@@ -174,6 +174,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Matlab**
 
 `FORMAT: .mat`
+- **Matlab** is a fourth generation numerical computing environment and computer programming language. Developed by **The MathWorks**, **Matlab** enables matrix manipulation, function and data plotting, algorithm implementation, user interface creation, and interfaces with programs in other languages.
 
 - [x] **Nim**
 
