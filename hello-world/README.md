@@ -45,4 +45,18 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **PHP**
 - [x] **PostScript**
 - [x] **PowerShell**
-
+- [x] **Prolog**
+- [x] **Python**
+- [x] **R**
+- [x] **Ruby**
+- [x] **Rust**
+- [x] **Scala**
+- [x] **Shell**
+- [x] **Solidity**
+- [x] **SQL**
+- [x] **Standard ML**
+- [x] **Swift**
+- [x] **TCL**
+- [x] **TypeScript**
+- [x] **Visual Basic .NET**
+- [x] **Whitespace**
