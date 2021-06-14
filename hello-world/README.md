@@ -159,6 +159,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Kotlin**
 
 `FORMAT: .kt`
+- **Kotlin** is a programming language with static typing that runs on the Java Virtual Machine or uses the LLVM compiler which can also be compiled into **JavaScript** source code. The main developers are from a team of programmers from **JetBrains** based in **Russia**.
 
 - [x] **Lisp**
 
