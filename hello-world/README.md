@@ -4,6 +4,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **ABAP**
 
 `FORMAT: .ABAP`
+- **ABAP** stands for Advanced Business Application Programming. And is an inseparable part of SAP, one of the largest ERP systems in the world. The way of coding is almost close to PASCAL and BASIC, the structure is very different from JAVA where the nuances of object-oriented are very thick.
 
 - [x] **Assembly**
 
