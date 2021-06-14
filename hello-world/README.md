@@ -59,6 +59,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **COOL**
 
 `FORMAT: .cl`
+- **COOL**, an acronym for **Classroom Object Oriented Language**, is a computer programming language designed by **Alexander Aiken** for use in an undergraduate compiler course project. ... The reference **COOL** compiler is written in C++, built fully on the public domain tools. It generates code for a MIPS simulator, SPIM.
 
 - [x] **CoffeeScript**
 
