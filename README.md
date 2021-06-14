@@ -29,3 +29,4 @@ bored.
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.groovy">helloworld.groovy</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.hs">helloworld.hs</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.html">helloworld.html</a>
+    - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.i">helloworld.i</a>
