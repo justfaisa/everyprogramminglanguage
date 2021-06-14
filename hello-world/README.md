@@ -209,6 +209,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **PHP**
 
 `FORMAT: .php`
+- **PHP: Hypertext Preprocessor** is a scripting language that can be embedded or embedded into **HTML**. **PHP** is widely used to program dynamic websites. **PHP** can be used to build a **CMS**.
 
 - [x] **PostScript**
 
