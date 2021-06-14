@@ -264,6 +264,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **SQL**
 
 `FORMAT: .sql`
+- **SQL** is a language used to access data in relational databases. This language is de facto the standard language used in relational database management. Currently almost all existing database servers support this language to perform data management.
 
 - [x] **Standard ML**
 
