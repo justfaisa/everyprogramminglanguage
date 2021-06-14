@@ -109,6 +109,9 @@ Just my **HelloWorld** collection in different programming language xd
 
 `FORMAT: .cljx`
 - **ClojureScript** is a compiler for **Clojure** that targets **JavaScript**. It emits **JavaScript** code which is compatible with the advanced compilation mode of the Google Closure optimizing compiler.
+- **Founder:** `Rich Hickey`
+- **Company:** `Clojure.org`
+- **Year:** `2007`
 
 - [x] **Crystal**
 
