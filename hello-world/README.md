@@ -189,6 +189,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **OCaml**
 
 `FORMAT: .ml`
+- **OCaml** is a general-purpose multi-paradigm programming language that extends the Caml dialect of ML with object-oriented features. **OCaml** was created in **1996** by **Xavier Leroy**, **Jérôme Vouillon**, **Damien Doligez**, **Didier Rémy**, **Ascánder Suárez**, and others.
 
 - [x] **Pascal**
 
