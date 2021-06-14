@@ -15,3 +15,4 @@ bored.
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.cljx">helloworld.cljx</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.coffee">helloworld.coffee</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.cpp">helloworld.cpp</a>
+    - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.cr">helloworld.cr</a>
