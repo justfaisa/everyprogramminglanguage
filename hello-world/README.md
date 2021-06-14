@@ -101,6 +101,9 @@ Just my **HelloWorld** collection in different programming language xd
 
 `FORMAT: .coffee`
 - **CoffeeScript** is a programming language that compiles to **JavaScript**. It adds syntactic sugar inspired by **Ruby**, **Python** and **Haskell** in an attempt to improve **JavaScript** brevity and readability. Specific additional features include list comprehension and styling assignments.
+- **Founder:** `Jeremy Ashkenas`
+- **Company:** `-`
+- **Year:** `2009`
 
 - [x] **ClojureScript**
 
