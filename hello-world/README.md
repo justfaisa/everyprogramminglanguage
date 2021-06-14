@@ -75,41 +75,79 @@ Just my **HelloWorld** collection in different programming language xd
 
 - [x] **Elixir**
 
+`FORMAT: .exs`
+
 - [x] **Emojic**
+
+`FORMAT: .emojic`
 
 - [x] **Erlang**
 
+`FORMAT: .erl`
+
 - [x] **Fortran**
+
+`FORMAT: .f`
 
 - [x] **Go**
 
+`FORMAT: .go`
+
 - [x] **Groovy**
+
+`FORMAT: .groovy`
 
 - [x] **Haskell**
 
+`FORMAT: .hs`
+
 - [x] **HTML**
+
+`FORMAT: .html`
 
 - [x] **INTERCAL**
 
+`FORMAT: .i`
+
 - [x] **Java**
+
+`FORMAT: .java`
 
 - [x] **JavaScript**
 
+`FORMAT: .js`
+
 - [x] **Julia**
+
+`FORMAT: .jl`
 
 - [x] **Juliar**
 
+`FORMAT: .jrl`
+
 - [x] **Kotlin**
+
+`FORMAT: .kt`
 
 - [x] **Lisp**
 
+`FORMAT: .lisp`
+
 - [x] **Lua**
+
+`FORMAT: .lua`
 
 - [x] **Matlab**
 
+`FORMAT: .mat`
+
 - [x] **Nim**
 
+`FORMAT: .nim`
+
 - [x] **Objective-C**
+
+`FORMAT: .m`
 
 - [x] **OCaml**
 
