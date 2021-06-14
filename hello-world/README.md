@@ -153,40 +153,80 @@ Just my **HelloWorld** collection in different programming language xd
 
 - [x] **Pascal**
 
+`FORMAT: .pas`
+
 - [x] **Perl**
+
+`FORMAT: .pl`
 
 - [x] **Perl 6**
 
+`FORMAT: .p6`
+
 - [x] **PHP**
+
+`FORMAT: .php`
 
 - [x] **PostScript**
 
+`FORMAT: .ps1`
+
 - [x] **PowerShell**
+
+`FORMAT: .ps`
 
 - [x] **Prolog**
 
+`FORMAT: .pro`
+
 - [x] **Python**
+
+`FORMAT: .py`
 
 - [x] **R**
 
+`FORMAT: .r`
+
 - [x] **Ruby**
+
+`FORMAT: .rb`
 
 - [x] **Rust**
 
+`FORMAT .rs`
+
 - [x] **Scala**
+
+`FORMAT: .scala`
 
 - [x] **Shell**
 
+`FORMAT: .sh`
+
 - [x] **Solidity**
+
+`FORMAT: .sol`
 
 - [x] **SQL**
 
+`FORMAT: .sql`
+
 - [x] **Standard ML**
+
+`FORMAT: .sml`
 
 - [x] **Swift**
 
+`FORMAT: .swift`
+
 - [x] **TCL**
+
+`FORMAT: .tcl`
 
 - [x] **TypeScript**
 
+`FORMAT: .ts`
+
 - [x] **Visual Basic .NET**
+
+`FORMAT: .vb`
