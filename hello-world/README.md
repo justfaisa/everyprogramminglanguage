@@ -7,6 +7,7 @@ Just my **HelloWorld** collection in different programming language xd
 - **ABAP** stands for Advanced Business Application Programming. And is an inseparable part of SAP, one of the largest ERP systems in the world. The way of coding is almost close to PASCAL and BASIC, the structure is very different from JAVA where the nuances of object-oriented are very thick.
 
 - [x] **Assembly**
+- **Assembly** language is a low-level programming language used in programming computers, microprocessors, micro controllers, and other programmable devices.
 
 `FORMAT: .asm`
 
