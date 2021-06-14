@@ -269,6 +269,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Standard ML**
 
 `FORMAT: .sml`
+- **Standard ML** is a general purpose modular functional programming language with compile-time type checking and type inference. It is popular among compiler writers and programming language researchers, as well as in the development of theorem proofers.
 
 - [x] **Swift**
 
