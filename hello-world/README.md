@@ -96,9 +96,10 @@ Just my **HelloWorld** collection in different programming language xd
 `FORMAT: .exs`
 - **Elixir** is a functional, concurrent and multipurpose programming language that runs on the **Erlang** language **Virtual Machine**. **Elixir** is based on the **Erlang** language and has the same abstraction in building distributed and fault tolerant applications.
 
-- [x] **Emojic**
+- [x] **Emojicode**
 
 `FORMAT: .emojic`
+- **Emojicode** is an open-source, full-blown programming language consisting of emojis.
 
 - [x] **Erlang**
 
