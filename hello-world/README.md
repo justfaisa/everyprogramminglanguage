@@ -119,6 +119,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Groovy**
 
 `FORMAT: .groovy`
+- **Apache Groovy** is a **Java-syntax** compatible object-oriented programming language for the **Java** platform. It is a static and dynamic language with features similar to **Python**, **Ruby**, and **Smalltalk**.
 
 - [x] **Haskell**
 
