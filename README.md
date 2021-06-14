@@ -57,3 +57,4 @@ bored.
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.sml">helloworld.sml</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.sol">helloworld.sol</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.sql">helloworld.sql</a>
+    - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.swift">helloworld.swift</a>
