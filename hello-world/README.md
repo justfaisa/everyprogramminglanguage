@@ -134,6 +134,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **INTERCAL**
 
 `FORMAT: .i`
+- **INTERCAL** is an esoteric programming language created as a parody by **Don Woods** and **James M. Lyon**, two Princeton University students, in **1972**.
 
 - [x] **Java**
 
