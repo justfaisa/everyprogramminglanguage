@@ -79,6 +79,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **D**
 
 `FORMAT: .d`
+- **D** is a programming language created by **Walter Bright**. **D** was created in **1999** and released to the public for the first time in **2001**, then reached version 1.0 in **2007**.
 
 - [x] **Dart**
 
