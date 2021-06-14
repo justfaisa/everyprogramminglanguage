@@ -70,13 +70,16 @@ Just my **HelloWorld** collection in different programming language xd
 `FORMAT: .cpp`
 - **C++** is a computer programming language created by **Bjarne Stroustrup**, which is an outgrowth of the **C** language developed at Bell Labs. In the early **1970s**, the language was an improvement over the previous language, namely **B**.
 - **Founder:** `Bjarne Stroustrup`
-- **Company:** `-`
+- **Company:** `Microsoft (Probably)`
 - **Year:** `1985`
 
 - [x] **CSS**
 
 `FORMAT: .css`
 - **Cascading Style Sheets (CSS)** are rules for arranging several components in a web so that it will be more structured and uniform. **CSS is not a programming language**.
+- **Founder:** `Håkon Wium Lie, Tim Berners-Lee`
+- **Company:** `World Wide Web Consortium (W3C)`
+- **Year:** `1994`
 
 - [x] **COBOL**
 
