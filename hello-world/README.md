@@ -289,3 +289,4 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Visual Basic .NET**
 
 `FORMAT: .vb`
+- **Microsoft Visual Basic .NET** is a tool for developing and building applications that run on the **.NET Framework system**, using the **BASIC** language. Using this tool, programmers can build Windows Forms applications, **ASP.NET**-based web applications, as well as command-line applications.
