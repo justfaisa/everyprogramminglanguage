@@ -85,6 +85,9 @@ Just my **HelloWorld** collection in different programming language xd
 
 `FORMAT: .cbl`
 - **COBOL** is a third generation programming language. As the name implies, the **COBOL** language has the function of solving problems related to trade, such as financial management systems, company expense reports and others.
+- **Founder:** `Grace Brewster Murray Hopper`
+- **Company:** `CODASYL, ANSI, ISO`
+- **Year:** `1959`
 
 - [x] **COOL**
 
