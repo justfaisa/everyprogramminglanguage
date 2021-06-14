@@ -20,3 +20,4 @@ bored.
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.css">helloworld.css</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.d">helloworld.d</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.dart">helloworld.dart</a>
+    - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.delphi">helloworld.delphi</a>
