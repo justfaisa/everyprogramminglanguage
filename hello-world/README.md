@@ -37,6 +37,9 @@ Just my **HelloWorld** collection in different programming language xd
 
 `FORMAT: .bat` or `.cmd`
 - **Batch** is a text file that contains a series of commands to be executed by the command interpreter. Can be defined as a collection of command line commands that can be run on Microsoft Windows. Bundled files usually have a `".bat"` or `".cmd"` extension.
+- **Founder:** `Herman Hollerith`
+- **Company:** `Microsoft Windows`
+- **Year:** `1890`
 
 - [x] **Brainfuck**
 
