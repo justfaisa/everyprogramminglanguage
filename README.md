@@ -50,3 +50,4 @@ bored.
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.ps1">helloworld.ps1</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.py">helloworld.py</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.r">helloworld.r</a>
+    - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.rb">helloworld.rb</a>
