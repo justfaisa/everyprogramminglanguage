@@ -201,9 +201,10 @@ Just my **HelloWorld** collection in different programming language xd
 `FORMAT: .pl`
 - **Perl** is a programming language for all purposes, first developed by **Larry Wall** on Unix machines. **Perl** was first released on **December 18**, **1987** marked by the release of **Perl 1**.
 
-- [x] **Perl 6**
+- [x] **Raku (Perl 6)**
 
 `FORMAT: .p6`
+- **Raku** is a member of the **Perl** family of programming languages. Originally developed under the name **Perl 6**, it was renamed to **Raku** in **October 2019**.
 
 - [x] **PHP**
 
