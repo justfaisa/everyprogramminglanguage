@@ -133,6 +133,9 @@ Just my **HelloWorld** collection in different programming language xd
 
 `FORMAT: .dart`
 - **Dart** is a programming language designed for client development, such as for the web and mobile apps. It is developed by **Google** and can also be used to build server and desktop applications.
+- **Founder:** `Lars Bak, Kasper Lund`
+- **Company:** `Google`
+- **Year:** `2011`
 
 - [x] **Delphi**
 
