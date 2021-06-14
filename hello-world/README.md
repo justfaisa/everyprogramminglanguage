@@ -239,6 +239,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Ruby**
 
 `FORMAT: .rb`
+- **Ruby** is an object-oriented, dynamic script-based programming language. The goal of **Ruby** is to combine the advantages of all the scripting programming languages ​​in the world. **Ruby** is written in the **C** programming language with basic capabilities such as **Perl** and **Python**.
 
 - [x] **Rust**
 
