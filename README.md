@@ -59,3 +59,4 @@ bored.
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.sql">helloworld.sql</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.swift">helloworld.swift</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.tcl">helloworld.tcl</a>
+    - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.ts">helloworld.ts</a>
