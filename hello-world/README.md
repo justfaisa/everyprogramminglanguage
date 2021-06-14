@@ -169,6 +169,7 @@ Just my **HelloWorld** collection in different programming language xd
 - [x] **Lua**
 
 `FORMAT: .lua`
+- **Lua** is a compact programming language designed as a script-based dynamic programming language with expandable or add-on semantics. As a scripting language, **Lua** has an API in **C** language which is relatively simple compared to other scripting languages.
 
 - [x] **Matlab**
 
