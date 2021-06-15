@@ -173,6 +173,9 @@ Just my **HelloWorld** collection in different programming language xd
 
 `FORMAT: .f`
 - **Fortran** is a programming language. It was first developed in **1956** by **John Backus** at IBM. Used in science for the next **50 years**. Aimed at making it easier to make applications of mathematics, science, and engineering.
+- **Founder:** `John Backus`
+- **Company:** `IBM`
+- **Year:** `1956`
 
 - [x] **Go**
 
