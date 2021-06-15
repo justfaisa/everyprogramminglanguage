@@ -157,6 +157,9 @@ Just my **HelloWorld** collection in different programming language xd
 
 `FORMAT: .emojic`
 - **Emojicode** is an open-source, full-blown programming language consisting of emojis.
+- **Founder:** `Theo B. Weidmann`
+- **Company:** `Emojicode.org`
+- **Year:** `2016`
 
 - [x] **Erlang**
 
