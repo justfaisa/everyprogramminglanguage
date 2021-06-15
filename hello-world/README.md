@@ -165,6 +165,9 @@ Just my **HelloWorld** collection in different programming language xd
 
 `FORMAT: .erl`
 - **Erlang** is a general-purpose, concurrent, and functional programming language, and a garbage-collected runtime system.
+- **Founder:** `Joe Armstrong, Robert Virding, Mike Williams`
+- **Company:** `Ericsson`
+- **Year:** `1986`
 
 - [x] **Fortran**
 
