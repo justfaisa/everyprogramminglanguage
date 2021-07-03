@@ -203,6 +203,11 @@ Just my **HelloWorld** collection in different programming language xd
 `FORMAT: .html`
 - **Hypertext Markup Language (HTML)** is the standard markup language for documents designed to be displayed in internet browsers. This can be helped by technologies such as **Cascading Style Sheets (CSS)** and scripting languages ​​such as **JavaScript** and **VBScript**.
 
+- [x] **Haxe**
+
+`FOMAT: .hx`
+- **Haxe** is an open source high-level cross-platform compiler and programming language that can generate applications and source code, for many different computing platforms from a single codebase. It is free and open source software, released under the MIT License.
+
 - [x] **INTERCAL**
 
 `FORMAT: .i`
