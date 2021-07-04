@@ -110,7 +110,7 @@ Just my **HelloWorld** collection in different programming language xd
 `FORMAT: .cljx`
 - **ClojureScript** is a compiler for **Clojure** that targets **JavaScript**. It emits **JavaScript** code which is compatible with the advanced compilation mode of the Google Closure optimizing compiler.
 - **Founder:** `Rich Hickey`
-- **Company:** `Clojure.org`
+- **Company:** `clojure.org`
 - **Year:** `2007`
 
 - [x] **Crystal**
@@ -158,7 +158,7 @@ Just my **HelloWorld** collection in different programming language xd
 `FORMAT: .emojic`
 - **Emojicode** is an open-source, full-blown programming language consisting of emojis.
 - **Founder:** `Theo B. Weidmann`
-- **Company:** `Emojicode.org`
+- **Company:** `emojicode.org`
 - **Year:** `2016`
 
 - [x] **Erlang**
@@ -197,6 +197,9 @@ Just my **HelloWorld** collection in different programming language xd
 
 `FORMAT: .hs`
 - **Haskell** is a purely functional programming language. The name **Haskell** programming language is named after the mathematician **Haskell Curry**, who is best known for his work in combinatory logic. **Haskell** only recognizes expressions and equations.
+- **Founder:** `Philip Wadler, Stephen Blott`
+- **Company:** `haskell.org`
+- **Year:** `1990`
 
 - [x] **HTML**
 
