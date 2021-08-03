@@ -63,3 +63,4 @@
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.ts">helloworld.ts</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.v">helloworld.v</a>
     - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.vb">helloworld.vb</a>
+    - <a href="https://github.com/justfaisa/bored/blob/main/hello-world/helloworld.vue">helloworld.vue</a>
