@@ -213,21 +213,33 @@ Just my **HelloWorld** collection in different programming language xd
 
 `FOMAT: .hx`
 - **Haxe** is an open source high-level cross-platform compiler and programming language that can generate applications and source code, for many different computing platforms from a single codebase. It is free and open source software, released under the MIT License.
+- **Founder:** `Nicolas Cannasse`
+- **Company:** `Haxe Foundation`
+- **Year:** `2005`
 
 - [x] **INTERCAL**
 
 `FORMAT: .i`
 - **INTERCAL** is an esoteric programming language created as a parody by **Don Woods** and **James M. Lyon**, two Princeton University students, in **1972**.
+- **Founder:** `Don Woods and James M. Lyon`
+- **Company:** `-`
+- **Year:** `1972`
 
 - [x] **Java**
 
 `FORMAT: .java`
 - **Java** is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
+- **Founder:** `James Gosling`
+- **Company:** `Oracle Corporation`
+- **Year:** `1995`
 
 - [x] **JavaScript**
 
 `FORMAT: .js`
 - **JavaScript** is a high-level and dynamic programming language. **JavaScript** is popular on the internet and works in most popular web browsers such as Google Chrome, Internet Explorer, Mozilla Firefox, Netscape and Opera. **JavaScript** code can be embedded in web pages using the SCRIPT tag.
+- **Founder:** `Brendan Eich`
+- **Company:** `Netscape`
+- **Year:** `1995`
 
 - [x] **Julia**
 
