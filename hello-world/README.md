@@ -245,6 +245,9 @@ Just my **HelloWorld** collection in different programming language xd
 
 `FORMAT: .jl`
 - **Julia** is a high-level, high-performance dynamic programming language. While it is a general purpose language and can be used to write any application, many of its features are well suited for numerical analysis and computational science.
+- **Founder:** `Alan Edelman, Jeff Bezanson, Stefan Karpinski, and Viral B. Shah`
+- **Company:** `julialang.org`
+- **Year:** `2009`
 
 - [x] **Juliar**
 
@@ -255,86 +258,137 @@ Just my **HelloWorld** collection in different programming language xd
 
 `FORMAT: .kt`
 - **Kotlin** is a programming language with static typing that runs on the Java Virtual Machine or uses the LLVM compiler which can also be compiled into **JavaScript** source code. The main developers are from a team of programmers from **JetBrains** based in **Russia**.
+- **Founder:** `-`
+- **Company:** `JetBrains`
+- **Year:** `2011`
 
 - [x] **Lisp**
 
 `FORMAT: .lisp`
 - **Lisp** is the second oldest high-level programming language in widespread use today. Like **Fortran**, **Lisp** has changed a lot since its inception, and a number of dialects have existed throughout its history. Currently, the most widely recognized dialects are **Scheme**, **Common LISP**, and **Clojure**.
+- **Founder:** `John McCarthy`
+- **Company:** `-`
+- **Year:** `1958`
 
 - [x] **Lua**
 
 `FORMAT: .lua`
 - **Lua** is a compact programming language designed as a script-based dynamic programming language with expandable or add-on semantics. As a scripting language, **Lua** has an API in **C** language which is relatively simple compared to other scripting languages.
+- **Founder:** `Roberto Ierusalimschy`
+- **Company:** `lua.org`
+- **Year:** `1993`
 
 - [x] **Matlab**
 
 `FORMAT: .mat`
 - **Matlab** is a fourth generation numerical computing environment and computer programming language. Developed by **The MathWorks**, **Matlab** enables matrix manipulation, function and data plotting, algorithm implementation, user interface creation, and interfaces with programs in other languages.
+- **Founder:** `Cleve Moler`
+- **Company:** `The MathWorks`
+- **Year:** `1984`
 
 - [x] **Nim**
 
 `FORMAT: .nim`
 - **Nim** is a mandatory, general-purpose, multi-paradigm, statically typed, compiled programming language designed and developed by **Andreas Rumpf**.
+- **Founder:** `Andreas Rumpf`
+- **Company:** `Nim Lang Team`
+- **Year:** `2008`
 
 - [x] **Objective-C**
 
 `FORMAT: .m`
 - **Objective-C** is an object-oriented and reactive programming language. This language is used on Mac OS X as well as iPhone smartphones. **Objective-C** is an object-oriented programming language or what we know as **OOP (Object Oriented Programming)**.
+- **Founder:** `Tom Love and Brad Cox`
+- **Company:** `-`
+- **Year:** `1984`
 
 - [x] **OCaml**
 
 `FORMAT: .ml`
 - **OCaml** is a general-purpose multi-paradigm programming language that extends the Caml dialect of ML with object-oriented features. **OCaml** was created in **1996** by **Xavier Leroy**, **Jérôme Vouillon**, **Damien Doligez**, **Didier Rémy**, **Ascánder Suárez**, and others.
+- **Founder:** `Xavier Leroy, Jérôme Vouillon, Damien Doligez, Didier Rémy, and Ascánder Suárez`
+- **Company:** `INRIA`
+- **Year:** `1996`
 
 - [x] **Pascal**
 
 `FORMAT: .pas`
 - **Pascal** is a programming language that was first created by **Professor Niklaus Wirth**, a member of the International Federation of Information Processing in **1971**.
+- **Founder:** `Professor Niklaus Wirth`
+- **Company:** `-`
+- **Year:** `1971`
 
 - [x] **Perl**
 
 `FORMAT: .pl`
-- **Perl** is a programming language for all purposes, first developed by **Larry Wall** on Unix machines. **Perl** was first released on **December 18**, **1987** marked by the release of **Perl 1**.
+- **Perl** is a programming language for all purposes, first developed by **Larry Wall** on **Unix** machines. **Perl** was first released on **December 18**, **1987** marked by the release of **Perl 1**.
+- **Founder:** `Larry Wall`
+- **Company:** `Perl Foundation`
+- **Year:** `1987`
 
 - [x] **Raku (Perl 6)**
 
 `FORMAT: .p6`
 - **Raku** is a member of the **Perl** family of programming languages. Originally developed under the name **Perl 6**, it was renamed to **Raku** in **October 2019**.
+- **Founder:** `Larry Wall`
+- **Company:** `Raku Community`
+- **Year:** `2019`
 
 - [x] **PHP**
 
 `FORMAT: .php`
 - **PHP: Hypertext Preprocessor** is a scripting language that can be embedded or embedded into **HTML**. **PHP** is widely used to program dynamic websites. **PHP** can be used to build a **CMS**.
+- **Founder:** `Rasmus Lerdorf`
+- **Company:** `The PHP Development Team, Zend Technologies`
+- **Year:** `1995`
 
 - [x] **PostScript**
 
 `FORMAT: .ps1`
 - **PostScript** is a computer language for creating vector images. This language is dynamic, concatenative type and was created by **John Warnock**, **Charles Geschke**, **Doug Brotz**, **Ed Taft** and **Bill Paxton** in **1982**.
+- **Founder:** `John Warnock, Chuck Geschke, Doug Brotz, Ed Taft, and Bill Paxton`
+- **Company:** `Adobe Systems`
+- **Year:** `1982`
 
 - [x] **PowerShell**
 
 `FORMAT: .ps`
 - **Windows PowerShell**, formerly **Microsoft Shell** or **MSH** is a command line interface or **CLI** and scripting language being developed by **Microsoft**. This interface is similar to the **UNIX** shell, but the product is built on the basis of object-oriented programming and the **Microsoft** framework.
+- **Founder:** `Jeffrey Snover`
+- **Company:** `Microsoft Corporation`
+- **Year:** `2008`
 
 - [x] **Prolog**
 
 `FORMAT: .pro`
 - **Prolog** is a logic programming language or also known as a non-procedural language. Its name is taken from the French programmation en logique.
+- **Founder:** `Alain Colmerauer and Robert Kowalski`
+- **Company:** `-`
+- **Year:** `1972`
 
 - [x] **Python**
 
 `FORMAT: .py`
 - **Python** is an interpreted, high-level general purpose programming language. Created by **Guido van Rossum** and first released in **1991**, **Python**'s design philosophy emphasizes code readability with significant use of whitespace.
+- **Founder:** `Guido van Rossum`
+- **Company:** `Python Software Foundation`
+- **Year:** `1990`
 
 - [x] **R**
 
 `FORMAT: .r`
 - **R** is a programming language and software for statistical and graph analysis. **R** was created by **Ross Ihaka** and **Robert Gentleman** at the University of Auckland, New Zealand, and is now being developed by the **R Development Core Team**, of which Chambers is a member.
+- **Founder:** `Ross Ihaka and Robert Gentleman`
+- **Company:** `R Core Team`
+- **Year:** `1993`
 
 - [x] **Ruby**
 
 `FORMAT: .rb`
 - **Ruby** is an object-oriented, dynamic script-based programming language. The goal of **Ruby** is to combine the advantages of all the scripting programming languages ​​in the world. **Ruby** is written in the **C** programming language with basic capabilities such as **Perl** and **Python**.
+- **Founder:** `Yukihiro Matsumoto`
+- **Company:** `ruby-lang.org`
+- **Year:** `1995`
 
 - [x] **Rust**
 
